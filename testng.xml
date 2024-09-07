@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="Listners.ListnersDemo"> </listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="/Users/vgoel/IdeaProjects/Vasu_Goel_Maven/src/test/java/Listners">
+        <classes>
+            <class name="Listners.ListnersTest">
+                <methods>
+                    <include name="Testing" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

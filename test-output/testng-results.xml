@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-08T11:11:15 IST" name="Default Suite" finished-at="2023-02-08T11:11:47 IST" duration-ms="31952">
+    <groups>
+    </groups>
+    <test started-at="2023-02-08T11:11:15 IST" name="Vasu_Goel_Maven" finished-at="2023-02-08T11:11:47 IST" duration-ms="31952">
+      <class name="Test.MyFirstTestngTest">
+        <test-method is-config="true" signature="loadpage()[pri:0, instance:Test.MyFirstTestngTest@429bd883]" started-at="2023-02-08T11:11:15 IST" name="loadpage" finished-at="2023-02-08T11:11:27 IST" duration-ms="11799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadpage -->
+        <test-method signature="VerifyPasswordError()[pri:0, instance:Test.MyFirstTestngTest@429bd883]" started-at="2023-02-08T11:11:27 IST" name="VerifyPasswordError" finished-at="2023-02-08T11:11:32 IST" duration-ms="5287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPasswordError -->
+        <test-method is-config="true" signature="closepage()[pri:0, instance:Test.MyFirstTestngTest@429bd883]" started-at="2023-02-08T11:11:32 IST" name="closepage" finished-at="2023-02-08T11:11:34 IST" duration-ms="2084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closepage -->
+        <test-method is-config="true" signature="loadpage()[pri:0, instance:Test.MyFirstTestngTest@429bd883]" started-at="2023-02-08T11:11:34 IST" name="loadpage" finished-at="2023-02-08T11:11:42 IST" duration-ms="7134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadpage -->
+        <test-method signature="VerifyWebpageTile()[pri:0, instance:Test.MyFirstTestngTest@429bd883]" started-at="2023-02-08T11:11:42 IST" name="VerifyWebpageTile" finished-at="2023-02-08T11:11:45 IST" duration-ms="3548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyWebpageTile -->
+        <test-method is-config="true" signature="closepage()[pri:0, instance:Test.MyFirstTestngTest@429bd883]" started-at="2023-02-08T11:11:45 IST" name="closepage" finished-at="2023-02-08T11:11:47 IST" duration-ms="2074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closepage -->
+      </class> <!-- Test.MyFirstTestngTest -->
+    </test> <!-- Vasu_Goel_Maven -->
+  </suite> <!-- Default Suite -->
+</testng-results>
